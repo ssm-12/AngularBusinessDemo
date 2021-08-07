@@ -1,0 +1,11 @@
+.dashboard-card {
+    width: 93.5vw;
+    margin: 1vw 1vw 1vw 1vw;
+    padding: 1rem;
+}
+.dashboard-control-container {
+    padding: 20px 0 20px 0;
+}
+table {
+    width: 100%;
+}
